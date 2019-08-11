@@ -1,0 +1,11 @@
+{
+  "or" : "oder",
+  "english" : "Englisch",
+  "german" : "Deutsch",
+  "login" : "Anmelden",
+  "submit" : "Absenden",
+  "register" : "Registrieren",
+  "username" : "Benutzername",
+  "password" : "Passwort",
+  "remain_signed_in" : "Eingeloggt bleiben"
+}
